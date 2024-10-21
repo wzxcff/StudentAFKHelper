@@ -1,15 +1,16 @@
 # StudentAFKHelper
 StudentAFKHelper is a tool, to make your student life easier. If you need to stay AFK, but also need to mark in the chat, this tool is perfect for you!
 
-## Installation
+## Quick start
 1) Clone repo or download code.
 2) Make sure you have [python](https://www.python.org/) installed.
 3) Initialize a virtual environment ([venv](https://docs.python.org/uk/3/library/venv.html)).
 4) Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
+    ```bash
+    pip install -r requirements.txt
+    ```
 5) Make sure you've allowed all necessary accesses to program to correctly work.
-```bash
-pip install -r requirements.txt
-```
+
 ## What can program do
 * **Capture a screenshot** of the screen instantly.
 * **Close current opened app** (using alt f4).
